@@ -42,9 +42,9 @@ body {
 .page-head-line {
     font-weight: 900;
     padding-bottom: 20px;
-    border-bottom: 2px solid #2185C5;
+    border-bottom: 2px solid #FF7F66;
     text-transform: uppercase;
-    color: #2185C5;
+    color: #FF7F66;
     font-size: 20px;
     margin-bottom: 40px;
 }
@@ -71,7 +71,7 @@ margin-bottom: 20px;
 color: #fff;
 text-align: center;
 cursor:pointer;
-background-color:#2185C5;
+background-color:#FF7F66;
 -webkit-border-radius:50%;
     -moz-border-radius:50%;
 }
@@ -79,7 +79,7 @@ background-color:#2185C5;
    HEADER SECTION STYLES
  ============================================================ */
 header {
-    background-color: #2185C5;
+    background-color: #FF7F66;
     color: #fff;
     padding: 10px;
     text-align: right;
@@ -110,7 +110,7 @@ header {
     -moz-border-radius: 50%;
     height: 60px;
     width: 60px;
-    background-color: #2185C5;
+    background-color: #FF7F66;
     color: #fff;
 }
 
@@ -129,7 +129,7 @@ header {
 
     .user-settings-wrapper .nav > li > a:hover,.user-settings-wrapper .nav > li > a:focus {
         text-decoration: none;
-        background-color: #7ECEFD!important;
+        background-color: #2185C5!important;
     }
 
     .user-settings-wrapper img {
@@ -170,24 +170,24 @@ header {
 }
 
 .menu-top-active {
-    background-color: #7ECEFD;
+    background-color: #2185C5;
 }
 
 .menu-section .nav > li > a:hover,.menu-section .nav > li > a:focus {
-    background-color: #2185C5!important;
+    background-color: #FF7F66!important;
 }
 
 .menu-section .dropdown-menu > li > a:hover,.menu-section .dropdown-menu > li > a:focus {
-    background-color: #2185C5!important;
+    background-color: #FF7F66!important;
 }
 
 .navbar-inverse {
-    background-color: #7ECEFD;
+    background-color: #2185C5;
     border-color: transparent;
 }
 
 .navbar-toggle {
-    background-color: #2185C5;
+    background-color: #FF7F66;
     border: 1px solid #fff;
 }
 
@@ -201,7 +201,7 @@ footer {
     padding: 10px;
     color: #fff;
     font-size: 12px;
-    background-color: #7ECEFD;
+    background-color: #2185C5;
 }
 
     footer a, footer a:hover {
